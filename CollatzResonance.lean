@@ -1,1 +1,2 @@
 import CollatzResonance.Basic
+import CollatzResonance.StrongSketches
